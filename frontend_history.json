@@ -1,0 +1,71 @@
+[
+  {
+  "version": "1.0.3",
+  "last_version": "1.0.2",
+  "changelog": {
+    "date": "Images/Sun.png",
+    "name": "sun1",
+    "notes": "<notes>"
+  },
+  "target": "1.0.1",
+  "type": "frontend",
+  "packagejson": true,
+  "migrations": true,
+  "webpackconfig": true,
+  "targetmachine": "mac-address",
+  "commithash": "<hash>",
+  "download_url": "path/to/zip"
+},
+
+{
+  "version": "1.0.3",
+  "last_version": "1.0.2",
+  "changelog": {
+    "date": "Images/Sun.png",
+    "name": "sun1",
+    "notes": "<notes>"
+  },
+  "target": "1.0.1",
+  "type": "frontend",
+  "packagejson": true,
+  "migrations": true,
+  "webpackconfig": true,
+  "targetmachine": "mac-address",
+  "commithash": "<hash>",
+  "download_url": "path/to/zip"
+},
+{
+  "version": "1.0.3",
+  "last_version": "1.0.2",
+  "changelog": {
+    "date": "Images/Sun.png",
+    "name": "sun1",
+    "notes": "<notes>"
+  },
+  "target": "1.0.1",
+  "type": "frontend",
+  "packagejson": true,
+  "migrations": true,
+  "webpackconfig": true,
+  "targetmachine": "mac-address",
+  "commithash": "<hash>",
+  "download_url": "path/to/zip"
+},
+{
+  "version": "1.0.3",
+  "last_version": "1.0.2",
+  "changelog": {
+    "date": "Images/Sun.png",
+    "name": "sun1",
+    "notes": "<notes>"
+  },
+  "target": "1.0.1",
+  "type": "frontend",
+  "packagejson": true,
+  "migrations": true,
+  "webpackconfig": true,
+  "targetmachine": "mac-address",
+  "commithash": "<hash>",
+  "download_url": "path/to/zip"
+}
+]
